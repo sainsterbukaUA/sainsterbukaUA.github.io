@@ -115,20 +115,6 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,6 +125,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
                 />
   </url>
   

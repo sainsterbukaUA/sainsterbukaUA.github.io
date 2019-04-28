@@ -103,21 +103,21 @@ Follow the following steps:
     </item>
     
     <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>What is Airlangga #OpenScience? We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasising the importance of getting (the research) right, not just getting it published!</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
       <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Our Team</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>What is Airlangga #OpenScience? We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasising the importance of getting (the research) right, not just getting it published!</description>
     </item>
     
     <item>
