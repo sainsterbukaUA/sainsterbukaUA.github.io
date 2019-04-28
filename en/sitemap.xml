@@ -4,7 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -16,6 +16,17 @@
                 hreflang="en"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/post/airlangga-openscience-is-finally-here/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -104,20 +115,6 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -128,6 +125,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
                 />
   </url>
   
