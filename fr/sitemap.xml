@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/</loc>
+    <loc>/sainsterbukaUA/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/sainsterbukaUA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/sainsterbukaUA/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>/sainsterbukaUA/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/sainsterbukaUA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/sainsterbukaUA/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
+    <loc>/sainsterbukaUA/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/sainsterbukaUA/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/sainsterbukaUA/fr/tags/"
                 />
   </url>
   
