@@ -8,8 +8,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/"
+                hreflang="id"
+                href="/id/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -39,16 +39,6 @@
     <loc>/posts/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
   </url>
   
   <url>
@@ -62,8 +52,8 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/series/"
+                hreflang="id"
+                href="/id/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -81,6 +71,11 @@
   <url>
     <loc>/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/dummy/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,8 +113,8 @@
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/about/"
+                hreflang="id"
+                href="/id/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -132,8 +127,8 @@
     <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/contact/"
+                hreflang="id"
+                href="/id/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -146,8 +141,8 @@
     <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="/pt-br/projects/"
+                hreflang="id"
+                href="/id/projects/"
                 />
     <xhtml:link
                 rel="alternate"

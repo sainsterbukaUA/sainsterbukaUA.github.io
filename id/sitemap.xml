@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/id/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/about/"
+                />
+  </url>
+  
+</urlset>
