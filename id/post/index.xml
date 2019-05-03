@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sains Terbuka Airlangga</title>
+    <link>/id/post/</link>
+    <description>Recent content in Posts on Sains Terbuka Airlangga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/id/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#SainsTerbuka Airlangga</title>
+      <link>/id/post/airlangga-openscience-is-finally-here/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/id/post/airlangga-openscience-is-finally-here/</guid>
+      <description>Pada hari Jumat, 3 Mei 2019, #SainsTerbuka Airlangga akhirnya diperkenalkan pada publik. Terima kasih banyak kepada Jurnal Administrasi Kesehatan Indonesia (JAKI) yang menjadi tuan rumah acara tersebut. Pada acara yang sama, JAKI meluncurkan versi Bahasa Inggris, sekaligus mengundang pak Dasapta Erwin Irawan untuk memberikan ceramah singkat tentang Pengantar #SainsTerbuka. Acara ini merupakan penanda penting bagi gerakan #SainsTerbuka di Universitas Airlangga.
+Tentu saja, kami semakin bersemangat untuk melanjutkan kampanye #SainsTerbuka, baik di internal maupun di luar Universitas Airlangga!</description>
+    </item>
+    
+  </channel>
+</rss>
