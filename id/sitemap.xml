@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/id/post/airlangga-openscience-is-finally-here/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/airlangga-openscience-is-finally-here/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/post/airlangga-openscience-is-finally-here/"
-                />
-  </url>
-  
-  <url>
     <loc>/id/post/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +20,7 @@
   
   <url>
     <loc>/id/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -50,16 +35,22 @@
   </url>
   
   <url>
-    <loc>/id/contact/</loc>
+    <loc>/id/post/utas-minggu-lalu.id/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/id/post/airlangga-openscience-is-finally-here/</loc>
+    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="/post/airlangga-openscience-is-finally-here/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/contact/"
+                href="/id/post/airlangga-openscience-is-finally-here/"
                 />
   </url>
   
@@ -74,6 +65,20 @@
                 rel="alternate"
                 hreflang="id"
                 href="/id/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>/id/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/id/contact/"
                 />
   </url>
   
