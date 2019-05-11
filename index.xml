@@ -135,22 +135,22 @@ Memperkenalkan…#SainsTerbuka Airlangga class: middle, inverse, center
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
+      <title>Activities</title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
       <description>Some activites that we are planning to do in the future including:
  Writing a Research Data Management Plan document so that researchers in Universitas Airlangga are informed about the best practice of data sharing. Organising public discussions, workshops, drop-in sessions and webinars that are related to the theme of replication, reproducibility and #OpenScience. Strengthening our networking with similar communities in Indonesia and beyond.  So far, we have managed to organise several activities:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Follow me, @johndoe.</description>
     </item>
     
   </channel>
