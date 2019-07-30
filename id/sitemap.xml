@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/id/post/benefit-mengadopsi-sainsterbuka-sebuah-utas/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+    <loc>/id/post/petunjuk-webinar/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/id/post/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -25,7 +25,7 @@
   
   <url>
     <loc>/id/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -37,6 +37,11 @@
                 hreflang="id"
                 href="/id/"
                 />
+  </url>
+  
+  <url>
+    <loc>/id/post/benefit-mengadopsi-sainsterbuka-sebuah-utas/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
