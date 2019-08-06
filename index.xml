@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Airlangga #OpenScience</title>
+    <title>Sains Terbuka Airlangga</title>
     <link>/</link>
-    <description>Recent content on Airlangga #OpenScience</description>
+    <description>Recent content on Sains Terbuka Airlangga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Petunjuk Mengikuti Webinar</title>
+      <link>/post/petunjuk-webinar/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/petunjuk-webinar/</guid>
+      <description>Apa itu web-based seminar (webinar)? Webinar adalah seminar yang diselenggarakan tanpa perlu bertatap muka. Webinar yang didukung oleh #SainsTerbuka Airlangga biasanya menggunakan Zoom sebagai media webinar, meskipun kami tidak menutup kemungkinan akan menggunakan alternatif yang lain.
+Jadi saya tidak perlu datang ke suatu tempat untuk mengikuti webinar? Tidak perlu. Partisipan tinggal menyimak dengan bantuan gawainya masing-masing.
+Apa yang harus disiapkan sebelum mengikuti webinar?  Webinar dapat diikuti melalui ponsel pintar, komputer desktop, atau laptop.</description>
+    </item>
+    
+    <item>
+      <title>Benefit Mengadopsi #SainsTerbuka: Sebuah Utas</title>
+      <link>/post/benefit-mengadopsi-sainsterbuka-sebuah-utas/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/benefit-mengadopsi-sainsterbuka-sebuah-utas/</guid>
+      <description>Berikut adalah utas kami minggu ini, yaitu mengupas tentang keuntungan mengadopsi praktik #SainsTerbuka ketika melakukan pekerjaan sebagai ilmuwan.
+Okeeh… meskipun agak telat dikit (jadinya setelah tarawih), sesuai janji, kami akan membuat utas tentang apa sih benefitnya mengadopsi praktik #SainsTerbuka? Here we go! 1/n
+Bahan utas kali ini diambil dari https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246 dan https://elifesciences.org/articles/16800. 2/
+TL;DR &amp;ndash; #SainsTerbuka ga hanya membuat sains dan inovasi semakin dinamis dan berdampak, melainkan juga menguntungkan bagi karir peneliti, terutama peneliti pemula.</description>
+    </item>
+    
+    <item>
+      <title>Utas minggu lalu</title>
+      <link>/post/utas-minggu-lalu.id/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/utas-minggu-lalu.id/</guid>
+      <description>#SainsTerbuka Airlangga secara reguler memposting informasi yang berkaitan dengan #SainsTerbuka dan dua minggu yang lalu kami memposting dua utas, yaitu tentan bias publikasi dan pre-print. Berikut adalah arsip dari kedua utas tersebut.
+Bias Publikasi Selamat pagi kawan2 semua! Pagi ini kami akan share informasi ttg file drawer dan publication bias. Sebelumnya mari kita perhatikan sama2 infografis dibawah ini [UTAS]. 1/n
+Versi TL;DR — https://web.ma.utexas.edu/users/mks/statmistakes/filedrawer.html
+Berdasarkan infografis diatas, nyaris semua studi yg dipublikasikan di jurnal ilmiah, terlalu banyak memajang temuan penelitian yg positif (signifikan scr statistik - kalau pakai pendekatan null hypothesis significant testing (NHST)).</description>
+    </item>
+    
+    <item>
+      <title>#SainsTerbuka Airlangga Akhirnya Terbentuk!</title>
+      <link>/post/airlangga-openscience-is-finally-here/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/airlangga-openscience-is-finally-here/</guid>
+      <description>Pada hari Jumat, 3 Mei 2019, #SainsTerbuka Airlangga akhirnya diperkenalkan pada publik. Terima kasih banyak kepada Jurnal Administrasi Kesehatan Indonesia (JAKI) yang menjadi tuan rumah acara tersebut. Pada acara yang sama, JAKI meluncurkan versi Bahasa Inggris, sekaligus mengundang pak Dasapta Erwin Irawan untuk memberikan ceramah singkat tentang Pengantar #SainsTerbuka. Acara ini merupakan penanda penting bagi gerakan #SainsTerbuka di Universitas Airlangga.
+Tentu saja, kami semakin bersemangat untuk melanjutkan kampanye #SainsTerbuka, baik di internal maupun di luar Universitas Airlangga!</description>
+    </item>
     
     <item>
       <title>Airlangga #OpenScience is finally here!</title>
@@ -145,12 +190,40 @@ Memperkenalkan…#SainsTerbuka Airlangga class: middle, inverse, center
     </item>
     
     <item>
+      <title>Aktivitas</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Rencana Kegiatan Berikut adalah beberapa rencana aktivitas yang akan kami lakukan kedepan:
+ Membuat Research Data Management Plan untuk digunakan oleh peneliti-peneliti di Universitas Airlangga sebagai panduan dalam menyiapkan data penelitian untuk diakses secara terbuka. Menyelenggarakan aktivitas berupa diskusi terbuka, workshop, drop-in session dan webinar yang berkaitan dengan tema replikasi, reproducibility dan #SainsTerbuka. Memperkuat jejaring dengan komunitas serupa, baik yang ada di Indonesia maupun di luar Indonesia.  Aktivitas yang sudah dilakukan dan sedang dijadwalkan Sejauh ini kami telah melakukan beberapa aktivitas yaitu:</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
       <description>For contacting us, please drop us an email. You can also send us direct message on Twitter or Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Kontak</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Untuk mengontak kami, silahkan mengirim surel kepada kami. Anda dapat juga mengirimkan pesan kepada kami melalui Twitter dan Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Kami</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Apakah itu #SainsTerbuka Airlangga? Kami adalah peneliti pemula yang berasal dari latar belakang keilmuan yang beragam, yang bekerja di Universitas Airlangga. Kami berkomitmen untuk mempromosikan dan mengedukasi peneliti muda dan mahasiswa agar mengadopsi pendekatan Sains Terbuka. Kami percaya bahwa sains (yang baik) seharusnya terbuka, reproducible, transparan dan dapat diakses siapa saja. Kami juga percaya bahwa pengetahuan yang dihasilkan saat ini terlalu banyak terkontaminasi oleh penggunaan metrik yang tidak bertanggungjawab, sistem penghargaan, dan kompetisi yang tidak sehat.</description>
     </item>
     
   </channel>
