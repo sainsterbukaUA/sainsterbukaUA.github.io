@@ -6,10 +6,20 @@
     <description>Recent content on Airlangga #OpenScience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webinar: Publication Bias</title>
+      <link>/post/petunjuk-webinar/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/petunjuk-webinar/</guid>
+      <description>Publication Bias Webinar (Monday, 18 August 2019, 10.00 WIB/13.00 AEST) Aims This webinar aims to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis are rarely seen in Indonesian scientific discourse, while those might offer a better evidence and insight than a single study. By organising this webinar, we hope to cover some introductory questions related to publication bias which are including:
+ Why does a single empirical study offer such a limited insight?</description>
+    </item>
     
     <item>
       <title>Airlangga #OpenScience is finally here!</title>
