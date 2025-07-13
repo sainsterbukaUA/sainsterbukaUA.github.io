@@ -1,0 +1,59 @@
+---
+title: "Keuntungan Mengadopsi Sains Terbuka"
+date: "2019-05-18"
+date-format: "DD/MM/YYYY"
+author: Rizqy Amelia Zein
+---
+
+**Berikut adalah utas kami minggu ini, yaitu mengupas tentang keuntungan mengadopsi praktik #SainsTerbuka ketika melakukan pekerjaan sebagai ilmuwan.**
+
+Okeeh… meskipun agak telat dikit (jadinya setelah tarawih), sesuai janji, kami akan membuat utas tentang apa sih benefitnya mengadopsi praktik #SainsTerbuka? Here we go! 1/n
+
+Bahan utas kali ini diambil dari https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246 dan https://elifesciences.org/articles/16800. 2/
+
+TL;DR -- #SainsTerbuka ga hanya membuat sains dan inovasi semakin dinamis dan berdampak, melainkan juga menguntungkan bagi karir peneliti, terutama peneliti pemula. 3/
+
+Benefit 1: membuat pekerjaan kita makin kredibel dan dipercaya. Saintis pada dasarnya juga manusia & tentu ga lepas dari 'hakikatnya menjadi manusia'. Manusia amat rentan mengalami bias, & peneliti ga lepas dari kemungkinan ini. Bias kognitif berpotensi mencemari sains… 4/
+
+…dan membuat pekerjaan kita sulit menggambarkan realitas (atau kebenaran(?)) yg kita hadapi sehari2. Satu kutipan yang sangat menarik dari Richard Feynman, fisikawan pemenang Nobel dari tulisannya yg berjudul "Cargo Cult Science" 5/
+
+"The first principle is that you must not fool yourself—and you are the easiest person to fool. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that.." 6/
+
+Singkatnya, seringkali kita ga sadar bahwa kita sebenarnya sedang 'tersesat' sampai ada orang lain yang membantu menunjukkan kekhilafan kita dan bersama2 mengkoreksinya. Bagaimana mungkin kontrol sosial semacam ini kita dapatkan kalau… 7/
+
+...kita masih mengerjakan pekerjaan kita dalam ruang2 gelap dimana kita ga memberikan peluang orang lain untuk membantu kita mengkoreksi kekhilafan (bias) kita sendiri? 8/
+
+Dalam artikel sumber ada kutipan menarik. Pada dasarnya sains adalah "perlombaan antara menemukan 1001 cara untuk menipu diri kita sendiri dengan menemukan 1001 cara untuk MENCEGAH diri kita, menipu diri kita sendiri…" 9/
+
+Benefit 2: Membantu Pendidikan Tinggi mengembangkan sistem yang sehat bagi pertumbuhan sains. Sains yang reproducible (sbg efek dari transparansi) akan mendorong peneliti berkolaborasi. 10/
+
+Peneliti (&akademisi) TIDAK mungkin bisa bekerja dlm situasi yg terlalu kompetitif. Sains yang baik tdk mungkin lahir dalam kerangka kompetisi. Peneliti sangat buruk dlm berkompetisi & kompetisi bikin inovasi mandeg 11/ (https://www.theguardian.com/higher-education-network/2018/jun/15/is-competition-driving-innovation-or-damaging-scientific-research)
+
+Model karir akademis tradisional terlalu feodal dan hanya memberi sedikit kesempatan u/ peneliti pemula. Dg #SainsTerbuka, peneliti pemula punya banyak kesempatan utk mengembangkan diri dan karirnya karena mendorong kolaborasi. 11/
+
+Peneliti pemula dapat banyak belajar kalo pakai pendekatan "team science". Data yg terbuka, material dan desain studi yg terbuka bikin kesempatan belajar dan mengembangkan diri makin luas dan beragam. Semua kontribusi, sekecil apapun bakal dihargai. 12/
+
+Pendekatan "team science" banyak dipakai di Fisika (CERN) misalnya… atau kalo di Psikologi, contohnya adalah Psychological Science Accelerator (PSA - https://psysciacc.org/) 13/
+
+Benefit 3: Investasi di masa depan. #SainsTerbuka adalah masa depan sains. Besok2, #SainsTerbuka akan jadi *sains aja*. Kita ga akan mungkin bisa membuat riset kita 'kedengeran' di diskursus sains global via jurnal2 top tier kalo ga mengadopsi #SainsTerbuka. 14/
+
+Banyak jurnal top tier mulai mewajibkan peneliti mendepositkan data mentah dan koding di repositori. Beberapa mulai menganjurkan utk mengunggah pre-print. Jgn kaget kalo pre-reg akan diwajibkan dan RR akan jadi format standar publikasi ilmiah di masa depan… 15/
+
+Benefit 4: Berbagai manfaat yg agak pragmatis, seperti meningkatkan citation count, biaya publikasi yang lebih murah dan kemerdekaan untuk menentukan bentuk/strategi mengkomunikasikan sains. 16/
+
+Pendekatan #SainsTerbuka menganjurkan peneliti utk membuka semua material studi, yg artinya, kita punya kesempatan menerima kredit berupa rekognisi (melalui sitasi) dari bermacam proses penelitian yg kita kerjakan. 17/
+
+Kalo dulu, hanya artikel (terpublikasi) yg bisa disitasi. Sekarang? pre-print, raw data, koding sampai proposal (desain) penelitian kita bisa dikutip orang dan ini meningkatkan citation count lho! 18/
+
+Yg paling keren adalah kemerdekaan peneliti untuk mempublikasikan (mengkomunikasikan) pekerjaannya. Dulu format penerbitan ilmiah tradisional terbatas banget bentuknya, cenderung seragam dan banyak didikte oleh penerbit komersial. 19/
+
+Sekarang ada buanyakk sekali… bisa berupa data paper, study proposal, RR, dll. Bahkan tulisan kita di blog, tweet atau utas kaya gini juga dapat dianggap sebagai bentuk komunikasi sains lho… 20/
+
+Benefit 5: Peer-review yg transparan, engaging (& berkualitas). Balik lagi prinsipnya di Benefit 1 soal kontrol publik. Model penerbitan tradisional lbh banyak didominasi o/blind-review yg banyak kelemahannya. #SainsTerbuka bukan anti peer-review ya... ini mitos! 21/
+
+Tapi justru malah menganjurkan ekspansi peer-review. Tidak hanya sebelum karya tersebut diterbitkan, tapi juga SESUDAH karya tsb terbit (post-publication peer-review). Dg begitu, peneliti akan dpt lebih banyak masukan tentang karyanya… 22/
+
+Terakhir, Benefit 6: Melindungi ide dan karya peneliti. Dengan mengunggah ide dan karya kita sesegera mungkin, kita bisa 'melindungi' ide dan karya tersebut sejak awal. Kalo disimpen rapet2, ya tentu kalo ada yg ngembari, kita ga bisa klaim apa2 dong. 23/
+
+Baiklah, demikian utas kami tentang benefit mengadopsi praktik #SainsTerbuka. Semoga bermanfaat buat teman2 semua ya... jgn lupa disebarkan ke kolega2nya agar kami dapat pahala amal jariyahnya :) 24/24
+
