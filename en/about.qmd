@@ -1,0 +1,61 @@
+---
+title: "About"
+---
+
+# What is Airlangga [#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction)?
+
+We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasising the importance of getting (the research) right, not just getting it published! 
+
+Publishing research findings is crucial and should be done accordingly. However, **ensuring and improving research quality** is a matter of the uttermost importance and should be given the first priority and highest endeavour.
+
+[#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction) is an alternative way of doing science, a social movement, and a norm of scientific progress that potentially could alleviate the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis). #OpenScience is also a strategy to democratise knowledge thus anyone could actively participate in scientific progress. 
+
+Are you keen on learning more about #OpenScience? [Download our Intro to #OpenScience slides here!](https://sainsterbukaua.github.io/files/sains-terbuka-intro-template.pdf) Slides are in Bahasa Indonesia and codes are available in our <i class="fab fa-github"></i></a> [repository](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/intro-sainsterbuka-template.Rmd)
+
+We also highly recommend [Open Science Knowledge Base](https://how-to-open.science/) as your first resort, if you are eager to learn more about #OpenScience.
+
+So if you share the similar value, please consider to join our movement!
+
+
+# Manifesto
+
+* Encouraging researchers to realise their own biases when conducting research
+* Underlining the importance of methodological training, especially for early-career researchers and students
+* Promoting interdisciplinary collaboration and team science
+* Promoting good research practices
+* Encouraging the use of [pre-registration](https://cos.io/prereg/) and [Registered Report](https://cos.io/rr/)
+* Underlining the importance of the quality improvement of research reporting (complete & reproducible)
+* Encouraging the use of open-source and reproducible software for research (<a href="https://www.r-project.org" target="_blank"><i class="fab fa-r-project"></i></a>, <a href="https://www.python.org/" target="_blank"><i class="fab fa-python"></i></a> and many more)
+* Evaluating researchers' performance by looking at their adherence to open and reproducible practices, not just crude metrics (for example, see [Center for Open Science](https://cos.io/about/mission/)'s [Transparency and Openness Promotion Guideline (TOP)](https://cos.io/top/))
+* Limiting the use of crude metrics and rankings and encouraging the decision makers to use it responsibly according to [San Fransisco Declaration of Research Assessments (SF-DORA)](https://sfdora.org/read/)
+* Encouraging researchers to investigate research questions by conducting meta-research (systematic reviews and meta-analysis) in order to provide better scientific evidences for supporting evidence-based policies
+
+
+NB: We were inspired by [Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., ... & Ioannidis, J. P. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1), 0021](https://www.nature.com/articles/s41562-016-0021) when writing our manifesto.
+
+
+# Our Team
+
+### [Rizqy Amelia Zein](https://rameliaz.github.io/)
+
+Amel is an assistant professor in social psychology, working at Faculty of Psychology, Universitas Airlangga in Surabaya, Indonesia. She is also a [PhD student](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html) at the Chair of Social Psychology, Ludwig-Maximilians-Universität München. Her PhD project focuses on understanding how people relate to scientific and religious explanations. she is broadly interested in doing research in the areas of psychology of religion and psychology of science and also very passionate about research methods, metascience, computational reproducibility, and psychological measurement.
+
+### [Ilham Akhsanu Ridlo](https://orcid.org/0000-0001-5751-3665)
+
+Ilham Akhsanu Ridlo is an assistant professor of Public Health at Universitas Airlangga. His research examines health policy and administration; social and trust determinants of health policy; and how health policies can reduce health inequalities. His research engages interdisciplinary, applying theories and methods between the social sciences, public health and health policy. He is currently a managing editor of [Jurnal Administrasi Kesehatan Indonesia (JAKI)](https://e-journal.unair.ac.id/jaki).
+
+### [Agie Nugroho Soegiono](https://www.researchgate.net/profile/Agie_Soegiono)
+
+Agie is a public policy researcher and currently works as a teaching staff for undergraduate public administration programme at Faculty of Social and Political Sciences, Universitas Airlangga. His research agenda operates within the topics of open governance, smart city, and education for all. Previously, he worked at the Executive Office of the President and contributed to the drafting of Presidential Regulation in regards to open data implementation in Indonesia. His work could be accessed openly and freely through his <a href="https://www.researchgate.net/profile/Agie_Soegiono" target="_blank"><i class="fab fa-researchgate"></i></a> account.
+
+
+# Spread the word!
+
+Thanks for visiting our website!
+
+Website is maintained by [Rizqy Amelia Zein](https://rameliaz.github.io/) using [`Quarto`](https://quarto.org/docs/websites/) in <a href="https://www.r-project.org" target="_blank"><i class="fab fa-r-project"></i></a>.
+
+
+# Important to notice
+
+Although this initiative is led and managed by researchers who work at Universitas Airlangga, we **have not been** formally or directly endorsed by the university officials. **Therefore, we do not represent the views/policies of our employer**.

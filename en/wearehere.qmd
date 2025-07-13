@@ -1,0 +1,12 @@
+---
+title: "Airlangga #OpenScience is finally here!"
+author: "Rizqy Amelia Zein"
+date: "2019-05-03"
+date-format: "DD/MM/YYYY"
+---
+
+On Friday, 3 May 2019, Airlangga #OpenScience has formally established. Thanks to [Jurnal Administrasi Kesehatan Indonesia (JAKI)](https://e-journal.unair.ac.id/jaki) for hosting the event! JAKI just launched their English version and hosted an event where pak [Dasapta Erwin Irawan](https://dasaptaerwin.net) was invited to give a talk about the Introduction of #OpenScience. The event set an important landmark for the #OpenScience movement in Universitas Airlangga.
+
+We are excited to continue our campaign in Universitas Airlangga and beyond!
+
+This is our slides introducing [Airlangga #OpenScience](../files/Perkenalan.pdf).

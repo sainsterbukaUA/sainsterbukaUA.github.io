@@ -6,17 +6,25 @@ website:
   title: "Airlangga Open Science"
   navbar:
     left:
-      - text: "Home - English"
-        href: index.qmd
-      - text: "Home - Bahasa Indonesia"
-        href: id/index.qmd
+      - text: "Home"
+        href: en/home.qmd
+      - text: "Laman Utama"
+        href: id/home.qmd
       - text: "About"
         menu:
           - text: "About (EN)"
-            href: about.qmd
+            href: en/about.qmd
           - text: "Tentang (ID)"
             href: id/about.qmd
-
+      - text: "Our Events/News (EN)"
+        menu:
+        - text: "Airlangga #OpenScience is finally here!"
+          href: en/wearehere.qmd
+      - text: "Kegiatan Kami (ID)"
+        menu:
+        - text: "#SainsTerbuka Airlangga Akhirnya Terbentuk!"
+          href: id/kamidisini.qmd
+        
 format:
   html:
     theme: cosmo
