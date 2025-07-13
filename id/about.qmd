@@ -38,12 +38,15 @@ NB: Manifesto kami terinspirasi dari [Munafò, M. R., Nosek, B. A., Bishop, D. V
 # Tim Kami 
 
 ### [Rizqy Amelia Zein](https://rameliaz.github.io/)
+
 Amel adalah pengajar Psikologi Sosial dan peneliti pemula yang bekerja di Fakultas Psikologi Universitas Airlangga. Ia adalah mahasiswa [S3 Psikologi Sosial](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html) di Ludwig-Maximilians-Universität München. Penelitian S3nya berfokus pada bagaimana individu menggunakan penjelasan saintifik dan religious. Ia secara umum tertarik untuk melakukan riset dalam bidan Psikologi Sains dan Psikologi Agama. Ia juga sangat berminat pada kajian metodologi penelitian kuantitatif, metasains, komputasi reka-ulang (*reproducibility*), dan pengukuran psikologi.
 
 ### [Ilham Akhsanu Ridlo](https://orcid.org/0000-0001-5751-3665)
+
 Ilham Akhsanu Ridlo adalah dosen dan peneliti di Fakultas Kesehatan Masyarakat di Universitas Airlangga. Penelitiannya lebih banyak berfokus pada topik kebijakan dan administrasi kesehatan, determinan sosial dan kepercayaan pada kebijakan kesehatan, dan bagaimana kebijakan kesehatan dapat mengatasi ketimpangan kondisi kesehatan. Penelitiannya mengkombinasikan pendekatan teoritik dan metode di ilmu sosial, kesehatan masyarakat dan kebijakan kesehatan. Ia juga saat ini bertugas sebagai editor pengelola di [Jurnal Administrasi Kesehatan Indonesia (JAKI)](https://e-journal.unair.ac.id/jaki).
 
 ### [Agie Nugroho Soegiono](https://www.researchgate.net/profile/Agie_Soegiono)
+
 Agie adalah akademisi kebijakan publik dan bekerja sebagai staf pengajar di Program Studi Sarjana Ilmu Administrasi Negara, Fakultas Ilmu Sosial dan Ilmu Politik, Universitas Airlangga. Agenda risetnya berfokus pada topik-topik seperti tata kelola pemerintahan terbuka, kota pintar, dan pendidikan untuk semua. Sebelumnya, ia bekerja di Kantor Staf Presiden dan berkontribusi pada perancangan Peraturan Presiden tentang Satu Data yang meliputi implementasi data terbuka di Indonesia. Karya-karyanya bisa diakses secara terbuka dan gratis di akun <a href="https://www.researchgate.net/profile/Agie_Soegiono" target="_blank"><i class="fab fa-researchgate"></i></a> pribadinya.
 
 
