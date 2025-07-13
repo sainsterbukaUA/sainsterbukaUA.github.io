@@ -13,7 +13,7 @@ Mempublikasikan riset wajib dilakukan peneliti, namun **menjamin dan meningkatka
 
 Ingin kenal lebih lanjut dengan #SainsTerbuka? [Unduh paparan kami disini](../files/sains-terbuka-intro-template.pdf). Kode dapat diakses di [repositori](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/intro-sainsterbuka-template.Rmd) <i class="fab fa-github"></i></a> kami.
 
-Kami juga sangat merekomendasikan [Open Science Knowledge Base](https://how-to-open.science/) sebagai sumber belajar pertama anda, apabila anda berminat untuk belajar tentang #SainsTerbuka lebih lanjut.
+Kami juga sangat merekomendasikan [Open Science Knowledge Base](https://oercommons.org/hubs/OSKB) sebagai sumber belajar pertama anda, apabila anda berminat untuk belajar tentang #SainsTerbuka lebih lanjut.
 
 Apabila anda berbagi nilai yang sama dengan gerakan ini, anda dapat bergabung dengan kami!
 

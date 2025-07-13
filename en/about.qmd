@@ -4,15 +4,15 @@ title: "About Us"
 
 # What is Airlangga [#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction)?
 
-We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasising the importance of getting (the research) right, not just getting it published! 
+We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasizing the importance of getting (the research) right, not just getting it published! 
 
-Publishing research findings is crucial and should be done accordingly. However, **ensuring and improving research quality** is a matter of the uttermost importance and should be given the first priority and highest endeavour.
+Publishing research findings is crucial and should be done accordingly. However, **ensuring and improving research quality** is the most important aspect and should be given top priority and more extensive efforts.
 
-[#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction) is an alternative way of doing science, a social movement, and a norm of scientific progress that potentially could alleviate the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis). #OpenScience is also a strategy to democratise knowledge thus anyone could actively participate in scientific progress. 
+[#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction) is an alternative way of doing science, a social movement, and a norm of scientific progress that potentially could alleviate the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis). #OpenScience is also a strategy to democratize knowledge thus anyone could actively participate in scientific progress. 
 
 Are you keen on learning more about #OpenScience? [Download our Intro to #OpenScience slides here!](../files/sains-terbuka-intro-template.pdf) Slides are in Bahasa Indonesia and codes are available in our <i class="fab fa-github"></i></a> [repository](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/intro-sainsterbuka-template.Rmd)
 
-We also highly recommend [Open Science Knowledge Base](https://how-to-open.science/) as your first resort, if you are eager to learn more about #OpenScience.
+We also highly recommend [Open Science Knowledge Base](https://oercommons.org/hubs/OSKB) as your first resort, if you are eager to learn more about #OpenScience.
 
 So if you share the similar value, please consider to join our movement!
 
