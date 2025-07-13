@@ -8,10 +8,6 @@ website:
     left:
       - text: "🏠"
         href: index.qmd
-      - text: "Home"
-        href: en/index.qmd
-      - text: "Laman Utama"
-        href: id/index.qmd
       - text: "About"
         menu:
           - text: "About (EN)"

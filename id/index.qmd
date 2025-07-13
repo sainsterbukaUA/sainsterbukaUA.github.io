@@ -3,7 +3,7 @@ title: ""
 ---
 
 ::: {.text-center}
-Selamat Datang di Laman #SainsTerbuka Airlangga!
+# Selamat Datang di Laman #SainsTerbuka Airlangga!
 :::
 
 ![](../images/avatar.jpg){fig-align="center"}
