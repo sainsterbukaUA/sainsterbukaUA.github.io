@@ -1,179 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Airlangga #OpenScience</title>
-    <link>/</link>
-    <description>Recent content on Airlangga #OpenScience</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Webinar: Publication Bias</title>
-      <link>/post/webinar-pub-bias/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/webinar-pub-bias/</guid>
-      <description>Publication Bias Webinar (Monday, 18 August 2019, 10.00 WIB/13.00 AEST) Aims This webinar aimed to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis are rarely seen in Indonesian scientific discourse, while those might offer a better evidence and insight than a single study. By organising this webinar, we hoped to cover some introductory questions related to publication bias which are including:
- Why does a single empirical study offer such a limited insight?</description>
-    </item>
-    
-    <item>
-      <title>Airlangga #OpenScience is finally here!</title>
-      <link>/post/airlangga-openscience-is-finally-here/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/airlangga-openscience-is-finally-here/</guid>
-      <description>On Friday, 3 May 2019, Airlangga #OpenScience has formally established. Thanks to Jurnal Administrasi Kesehatan Indonesia (JAKI) for hosting the event! JAKI just launched their English version and hosted an event where pak Dasapta Erwin Irawan was invited to give a talk about the Introduction of #OpenScience. The event set an important landmark for the #OpenScience movement in Universitas Airlangga.
-We are excited to continue our campaign in Universitas Airlangga and beyond!</description>
-    </item>
-    
-    <item>
-      <title>Render LaTeX using KaTeX</title>
-      <link>/posts/render-latex-using-katex/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/render-latex-using-katex/</guid>
-      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
-Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
-and with math blocks:
-$$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
-    </item>
-    
-    <item>
-      <title>Hugo coder wiki</title>
-      <link>/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugo-coder-wiki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dummy</title>
-      <link>/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
-    </item>
-    
-    <item>
-      <title>Theme Demo</title>
-      <link>/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/posts/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage  Finishing Touches  Fix Content Clean Up  A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/slides/perkenalan/sainsterbukaua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/slides/perkenalan/sainsterbukaua/</guid>
-      <description>class: inverse, middle, title-slide
-class: title-slide, spaced
-Memperkenalkan…#SainsTerbuka Airlangga class: middle, inverse, center
-Apa itu #SainsTerbuka?Foster #OpenScienceResearch CycleBenefit #SainsTerbukaMeningkatkan kualitas riset dan reportingnyaMemungkinkan networking dan kolaborasi yang lebih luasMereformasi cara ilmuwan mengelola relasi (lebih terbuka dan egaliter)Memperluas dampak risetMenambah motivasi intrinsikclass: middle, center
-#SainsTerbuka Airlangga sainsterbuka.ua@gmail.com [@sainsterbukaUA](https://twitter.com/sainsterbukaUA) [@sainsterbukaua](https://github.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>What is Airlangga #OpenScience? We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasising the importance of getting (the research) right, not just getting it published!</description>
-    </item>
-    
-    <item>
-      <title>Activities</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Planned Activities Some activites that we are planning to do in the future including:
- Writing a Research Data Management Plan document so that researchers are informed about the best practice of data sharing. Organising public discussions, workshops, drop-in sessions and webinars that are related to the theme of replication, reproducibility and #OpenScience. Strengthening our networking with similar communities in Indonesia and beyond.  Past and Upcoming Activities So far, we have managed to organise several activities:</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>For contacting us, please drop us an email. You can also send us direct message on Twitter or Facebook.</description>
-    </item>
-    
-    <item>
-      <title>Donation</title>
-      <link>/donation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/donation/</guid>
-      <description> Supporting us! Airlangga #OpenScience is mainly self-sustained, but you can help us by making a small donation so we could continue our activities. We currently do not obtain any financial support from the university, so we spare a small fraction of our personal income to sustain the movement.
-Any amount of donation is welcome and very much appreciated!
-
-Click here to make donation </description>
-    </item>
-    
-  </channel>
-</rss>
