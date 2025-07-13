@@ -1,0 +1,61 @@
+---
+title: "Petunjuk Mengikuti Webinar"
+date: "2019-07-30"
+date-format: "DD/MM/YYYY"
+author: Rizqy Amelia Zein
+---
+
+## Apa itu *web-based seminar* (webinar)?
+
+Webinar adalah seminar yang diselenggarakan **tanpa perlu bertatap muka**. Webinar yang didukung oleh #SainsTerbuka Airlangga biasanya menggunakan [Zoom](https://zoom.us/) sebagai media webinar, meskipun kami tidak menutup kemungkinan akan menggunakan alternatif yang lain.
+
+
+## Jadi saya tidak perlu datang ke suatu tempat untuk mengikuti webinar?
+
+Tidak perlu. Partisipan tinggal menyimak dengan bantuan gawainya masing-masing.
+
+
+## Apa yang harus disiapkan sebelum mengikuti webinar?
+
+* Webinar dapat diikuti melalui **ponsel pintar, komputer desktop, atau laptop**. Sebelumnya, mohon pastikan pengeras suara perangkat anda bekerja dengan baik. 
+* Setelah memastikan perangkat bekerja dengan baik dan anda memiliki koneksi internet yang stabil, [unduh aplikasi Zoom](https://zoom.us/support/download) untuk mengikuti webinar. Sebagai catatan, cara kerja Zoom sangat mirip dengan Skype (meskipun ada beberapa fitur tambahan).
+
+
+## Apakah webinar dapat diikuti dengan menggunakan ponsel pintar (*smartphone*)?
+
+Sangat bisa. Webinar dapat diikuti oleh peserta dengan menggunakan laptop atau ponsel pintar.
+
+* Bagi peserta yang menggunakan laptop/komputer desktop, dapat mengunduh Zoom [melalui tautan ini](https://zoom.us/support/download).
+* Bagi peserta yang menggunakan ponsel pintar, aplikasi Zoom sudah tersedia di **Google Play dan Apple Store**. Silahkan pasang aplikasi Zoom terlebih dahulu pada perangkat anda.
+
+
+## Apa yang harus dilakukan selanjutnya?
+
+* Setelah aplikasi Zoom terpasang di perangkat anda, silahkan **klik tautan** yang disediakan oleh *host* webinar **melalui email untuk bergabung dalam ruangan webinar**, pada waktu yang sudah ditentukan.
+* Setelah mengklik tautan, maka anda akan diarahkan untuk membuka aplikasi Zoom.
+* Setelah aplikasi berhasil dibuka, maka klik tombol **join audio conference by computer** (kalau menggunakan laptop/komputer desktop) atau **join audio conference by phone** (kalau menggunakan ponsel pintar).
+* Setelah berhasil bergabung, anda sudah secara otomatis mengikuti webinar, namun *host* sudah mengatur agar semua partisipan yang bergabung dimatikan fitur video dan audionya. Oleh karena itu, **anda hanya dapat menyimak**, tidak dapat ikut berbicara ataupun menampilkan video dalam forum.
+
+Silahkan simak video tutorial dibawah ini untuk mendapatkan petunjuk **cara bergabung sebagai partisipan webinar**.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vFhAEoCF7jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+## Kalau saya ingin bertanya sesuatu kepada panelis/pembicara, apa yang harus saya lakukan?
+
+Untuk mengajukan pertanyaan, anda bisa **memanfaatkan fitur chat**. Apabila anda ingin bertanya secara lebih interaktif (melalui suara), silahkan sampaikan kepada *host* melalui *chatroom* agar *host* mengaktifkan fitur audio, sehingga anda bisa mengajukan pertanyaan dengan cara berbicara langsung dengan panelis.
+
+
+## Saya sudah mendapatkan undangan mengikuti webinar dari *host*. Apa yang harus saya lakukan?
+
+* Mohon konfirmasikan kehadiran anda dengan mengklik "YES" pada bagian atas email undangan yang anda. Apabila anda tidak dapat hadir, silahkan klik "NO".
+* Anda dapat **menempelkan undangan** tersebut pada aplikasi Google Calendar, sehingga dapat membantu anda mengingatkan jadwal webinar dengan mengatur pengingat (*reminder*).
+* *Host* akan mengirimkan email sebagai pengingat pada H-24 dan H-1 jam sebelum jadwal webinar.
+
+## <center>Jadwal Webinar Terdekat</center>
+
+<center><img src="https://rameliaz.github.io/files/pub-bias.png" style="width:80%;" class="fancyimage"/></center>
+## <center>[Klik disini untuk mendaftar webinar Bias Publikasi](https://bit.ly/bias-publikasi)</center> <br>
+
+<center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:80%;" class="fancyimage"/></center>
+## <center>[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)</center>

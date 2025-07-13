@@ -1,0 +1,54 @@
+---
+title: "Rencana Kegiatan"
+date: "2025-07-13"
+date-format: "DD/MM/YYYY"
+date-modified: last-modified
+author: Rizqy Amelia Zein
+---
+
+Berikut adalah beberapa rencana aktivitas yang akan kami lakukan kedepan:
+
+* Membuat *Research Data Management Plan* untuk digunakan oleh peneliti-peneliti di Universitas Airlangga sebagai panduan dalam menyiapkan data penelitian untuk diakses secara terbuka.
+* Menyelenggarakan aktivitas berupa diskusi terbuka, *workshop*, *drop-in session* dan webinar yang berkaitan dengan tema replikasi, *reproducibility* dan #SainsTerbuka.
+* Memperkuat jejaring dengan komunitas serupa, baik yang ada di Indonesia maupun di luar Indonesia.
+
+
+# Aktivitas yang sudah dilakukan dan sedang dijadwalkan
+
+Sejauh ini kami telah melakukan beberapa aktivitas yaitu:
+
+## Menyelenggarakan diskusi/kuliah umum
+
+**Bekerjasama dengan Fakultas Psikologi Universitas Airlangga**
+
+* [23/04/2019] Kuliah Tamu dari **Prof. Michael Inzlicht dari University of Toronto** dengan judul "Replication Crisis in Social Psychology: A personal, first person account". Materi dapat [diunduh disini](../files/[Michael Inzlicht]_Invited-Talk_Replication Crisis_2304.pptx).
+* [09/05/2019] Kuliah Tamu dari **Sandersan Onie (PhD Cand.)** dari University of New South Wales tentang "Introduction to Bayesian Statistics for Psychological Research". Materi dapat [diunduh disini](../files/UnAir_Bayes.pptx).
+* [10/05/2019] Kuliah Tamu dari **Dr Rebecca Willen dari Institute of Globally Distributed Open Research and Education (IGDORE)** tentang "Open Scientific Practice in Psychological Research". Materi dapat [diunduh disini](../files/airlangga-uni-may-10-2019.zip).
+* [09/05/2019] Workshop Pengantar R *Programming* dengan **Sandersan Onie (PhD Cand.)** dari University of New South Wales. Materi dapat [diunduh disini](../files/UnAir_r.pptx).
+  
+
+**Bekerjasama dengan Jurnal Administrasi Kesehatan Indonesia (JAKI)**
+
+Diskusi tentang Sains Terbuka bersama dengan **Dr Dasapta Erwin Irawan dari Institut Teknologi Bandung**. Materi bisa diunduh disini [(pdf)](../files/20190503_UnairWebinar.pdf) [(pptx)](../files/20190503_UnairWebinar.pptx).
+
+
+## Menyelenggarakan webinar
+
+Kami juga aktif menyelenggarakan webinar yang berkaitan dengan peningkatan kualitas riset dan kompetensi peneliti. Berikut adalah beberapa kegiatan webinar yang terdekat. Apabila anda tertarik untuk **mengikuti webinar dan ingin tahu bagaimana caranya mendaftar/berpartisipasi** dalam webinar, [silahkan klik disini](https://sainsterbukaua.github.io/id/petunjukwebinar.html).
+
+### Webinar yang sudah dilaksanakan
+
+Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggarakan Webinar Bias Publikasi bersama dengan **Dr Mathew Ling from Deakin University & Australian and New Zealand Open Research Network (ANZORN)**. Semua materi [dapat diakses disini](https://sainsterbukaua.github.io/en/webinarpubbias.html).
+
+### Webinar yang akan datang
+
+<center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
+## <center>[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)</center>
+
+
+## Undangan Diskusi/Kuliah Umum/Workshop
+
+Tim kami juga secara aktif terlibat dalam diskusi publik/workshop/konferensi, termasuk diantaranya adalah:
+
+* [25/04/2019] Rizqy Amelia Zein diundang oleh Fakultas Kedokteran, Kesehatan Masyarakat dan Keperawatan, Universitas Gadjah Mada untuk menjadi salah satu panelis dalam acara [5th Public Health Symposium](http://phs.fk.ugm.ac.id/). Materi dapat [diunduh disini](../files/2404_RAZ_PHS5 [Untuk Peserta].pdf) dan kode untuk membuat materi tersebut [dapat diakses disini](https://github.com/rameliaz/5th-UGM-Public-Health-Symposium).
+* [19/07/2019] Rizqy Amelia Zein menyampaikan materi tentang **Pengarsipan Mandiri** di Workshop yang diselenggarakan oleh Jurnal Administrasi Kesehatan Indonesia (JAKI), sekaligus materi yang sama disampaikan di *Writing Masterclass* dari [The Conversation Indonesia](https://theconversation.com/id), yang diselenggarakan di Fakultas Psikologi Universitas Airlangga (23/07/2019). Materi dapat [diunduh disini](../files/20190718_self-archiving.pdf) dan kode dapat [diakses disini](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/self-archiving.Rmd).

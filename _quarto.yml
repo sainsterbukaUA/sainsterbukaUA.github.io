@@ -16,6 +16,8 @@ website:
             href: id/about.qmd
       - text: "Our Events/News (EN)"
         menu:
+        - text: "Planned Activities"
+          href: en/plannedactivities.qmd
         - text: "Airlangga #OpenScience is finally here!"
           href: en/wearehere.qmd
         - text: "Webinar: Publication Bias"
@@ -24,10 +26,14 @@ website:
         menu:
         - text: "#SainsTerbuka Airlangga Akhirnya Terbentuk!"
           href: id/kamidisini.qmd
+        - text: "Rencana Kegiatan"
+          href: id/rencanakegiatan.qmd
         - text: "Bias Publikasi dan Preprint"
           href: id/biaspublikasi.qmd
         - text: "Keuntungan Mengadopsi Sains Terbuka"
           href: id/benefit.qmd
+        - text: "Petunjuk Mengikuti Webinar"
+          href: id/petunjukwebinar.qmd
         
 format:
   html:
