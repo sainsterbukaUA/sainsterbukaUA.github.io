@@ -11,7 +11,7 @@ Mempublikasikan riset wajib dilakukan peneliti, namun **menjamin dan meningkatka
 
 [#SainsTerbuka](https://www.fosteropenscience.eu/content/what-open-science-introduction) adalah gerakan sosial yang bertujuan untuk mereformasi cara kerja sains tradisional, sekaligus menawarkan konsensus baru untuk mengurangi dampak [Krisis Replikasi](https://en.wikipedia.org/wiki/Replication_crisis). #SainsTerbuka juga merupakan strategi untuk mendemokratisasi pengetahuan, sehingga siapapun dapat berpartisipasi dan berkontribusi dalam perkembangan sains.
 
-Ingin kenal lebih lanjut dengan #SainsTerbuka? [Unduh paparan kami disini](https://sainsterbukaua.github.io/files/sains-terbuka-intro-template.pdf). Kode dapat diakses di [repositori](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/intro-sainsterbuka-template.Rmd) <i class="fab fa-github"></i></a> kami.
+Ingin kenal lebih lanjut dengan #SainsTerbuka? [Unduh paparan kami disini](../files/sains-terbuka-intro-template.pdf). Kode dapat diakses di [repositori](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/intro-sainsterbuka-template.Rmd) <i class="fab fa-github"></i></a> kami.
 
 Kami juga sangat merekomendasikan [Open Science Knowledge Base](https://how-to-open.science/) sebagai sumber belajar pertama anda, apabila anda berminat untuk belajar tentang #SainsTerbuka lebih lanjut.
 
@@ -43,7 +43,8 @@ Amel adalah pengajar Psikologi Sosial dan peneliti pemula yang bekerja di Fakult
 
 ### [Ilham Akhsanu Ridlo](https://orcid.org/0000-0001-5751-3665)
 
-Ilham Akhsanu Ridlo adalah dosen dan peneliti di Fakultas Kesehatan Masyarakat di Universitas Airlangga. Penelitiannya lebih banyak berfokus pada topik kebijakan dan administrasi kesehatan, determinan sosial dan kepercayaan pada kebijakan kesehatan, dan bagaimana kebijakan kesehatan dapat mengatasi ketimpangan kondisi kesehatan. Penelitiannya mengkombinasikan pendekatan teoritik dan metode di ilmu sosial, kesehatan masyarakat dan kebijakan kesehatan. Ia juga saat ini bertugas sebagai editor pengelola di [Jurnal Administrasi Kesehatan Indonesia (JAKI)](https://e-journal.unair.ac.id/jaki).
+Ilham Akhsanu Ridlo adalah pengajar di Fakultas Kesehatan Masyarakat Universitas Airlangga. Ia adalah mahasiswa S3 di Institut für Kommunikationswissenschaft und Medienforschung (IfKW) at Ludwig-Maximilians-Universität München. Ia meyakini bahwa komunikasi sains merupakan kunci untuk menjembatani kesenjangan antara praktik penelitian dan implementasi kebijakan kesehatan. Penelitiannya berfokus pada cara ilmuwan dan jurnalis mempengaruhi pembuat kebijakan untuk memahami ketidakpastian ilmiah. Ia saat ini tergabung dalam dewan penasehat [The Indonesian Journal of Health Administration (IJHA)](https://e-journal.unair.ac.id/jaki) dan anggota dari the National Association of Science Writers (NASW). Ia aktif berkontribusi di media dan mendirikan [Indonesian Science Communication Labs (IDSCL)](https://idscl.blog/). Dia menulis kolom sains populer dan mengkampanyekan Gerakan Sains Terbuka di Indonesia, terutama kebijakan jurnal ilmiah akses terbuka (OA). Dia juga terlibat dalam Masyarakat Jurnalis Sains Indonesia (SISJ).
+
 
 ### [Agie Nugroho Soegiono](https://www.researchgate.net/profile/Agie_Soegiono)
 
@@ -59,4 +60,4 @@ Situs web dibuat dan dikelola oleh [Rizqy Amelia Zein](https://rameliaz.github.i
 
 # Penting diketahui
 
-Meskipun gerakan ini dipimpin dan dikelola oleh dosen yang bekerja di Universitas Airlangga, kami **belum mendapatkan** dukungan secara langsung atau formal dari pimpinan Universitas Airlangga. **Oleh karena itu, kami tidak mewakili pandangan umum/kebijakan insitusi tempat kami bekerja**.
+Meskipun gerakan ini diinisiasi dan dikelola oleh dosen yang bekerja di Universitas Airlangga, kami **belum mendapatkan** dukungan secara langsung atau formal dari pimpinan Universitas Airlangga. **Oleh karena itu, kami tidak mewakili pandangan umum/kebijakan insitusi tempat kami bekerja**.
