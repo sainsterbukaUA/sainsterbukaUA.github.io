@@ -1,6 +1,7 @@
 ---
 title: "Your Page Title"
 date: "2025-07-13"
-date-format: "DD/MM/YYYY"  # Shows: 13/07/2025
+date-format: "DD/MM/YYYY"
+author: Rizqy Amelia Zein
 ---
 

@@ -4,8 +4,10 @@ project:
 
 website:
   title: "Airlangga Open Science"
-  navbar:
+navbar:
     left:
+      - text: "🏠"
+        href: index.qmd
       - text: "Home"
         href: en/index.qmd
       - text: "Laman Utama"

@@ -1,0 +1,22 @@
+---
+title: "Airlangga Open Science"
+---
+
+::: {.text-center}
+
+# Airlangga Open Science
+
+![Logo](images/avatar.jpg){fig-align="center" width="200px"}
+
+## Choose Language / Pilih Bahasa
+
+[**English** 🇺🇸](en/index.qmd){.btn .btn-primary .btn-lg}
+&nbsp;&nbsp;&nbsp;
+[**Bahasa Indonesia** 🇮🇩](id/index.qmd){.btn .btn-success .btn-lg}
+
+---
+
+*Knowledge shared is knowledge eternal*  
+*Ilmu yang dibagi akan abadi*
+
+:::
