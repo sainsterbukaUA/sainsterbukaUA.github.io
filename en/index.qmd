@@ -9,5 +9,5 @@ title: ""
 ![](../images/avatar.jpg){fig-align="center"}
 
 ::: {.text-center}
-# Ilmu yang dibagi akan abadi - Shared knowledge endures forever
+# Shared knowledge endures forever
 :::

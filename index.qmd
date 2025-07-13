@@ -1,12 +1,12 @@
 ---
-title: "Airlangga Open Science"
+title: ""
 ---
 
 ::: {.text-center}
 
 # Airlangga Open Science
 
-![Logo](images/avatar.jpg){fig-align="center" width="200px"}
+![](images/avatar.jpg){fig-align="center" width="200px"}
 
 ## Choose Language / Pilih Bahasa
 
@@ -16,7 +16,7 @@ title: "Airlangga Open Science"
 
 ---
 
-*Knowledge shared is knowledge eternal*  
+*Shared Knowledge Endures Forever*  
 *Ilmu yang dibagi akan abadi*
 
 :::

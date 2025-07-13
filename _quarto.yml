@@ -22,6 +22,8 @@ navbar:
         menu:
         - text: "Airlangga #OpenScience is finally here!"
           href: en/wearehere.qmd
+        - text: "Webinar: Publication Bias"
+          href: en/webinarpubbias.qmd  
       - text: "Kegiatan Kami (ID)"
         menu:
         - text: "#SainsTerbuka Airlangga Akhirnya Terbentuk!"
