@@ -1,0 +1,59 @@
+---
+title: "Tentang Kami"
+slug: "About"
+---
+
+# Apakah itu [#SainsTerbuka](https://www.fosteropenscience.eu/content/what-open-science-introduction) Airlangga?
+
+Kami adalah peneliti pemula yang berasal dari latar belakang keilmuan yang beragam, yang bekerja di Universitas Airlangga. Kami berkomitmen untuk mempromosikan dan mengedukasi peneliti muda dan mahasiswa agar mengadopsi pendekatan Sains Terbuka. Kami percaya bahwa sains (yang baik) seharusnya terbuka, *reproducible*, transparan dan dapat diakses siapa saja. Kami juga percaya bahwa pengetahuan yang dihasilkan saat ini terlalu banyak terkontaminasi oleh penggunaan metrik yang tidak bertanggungjawab, sistem penghargaan, dan kompetisi yang tidak sehat. Kami mengharapkan perubahan dan perbaikan dengan menekankan bahwa melakukan riset dengan benar (sesuai dengan kaidah sains) jauh lebih penting daripada sekadar mempublikasikannya di *outlet* dengan audiens yang terbatas, seperti jurnal ilmiah. 
+
+Mempublikasikan riset wajib dilakukan peneliti, namun **menjamin dan meningkatkan kualitas riset** adalah aspek yang paling penting dan harus mendapatkan prioritas utama dan usaha yang lebih ekstensif.
+
+[#SainsTerbuka](https://www.fosteropenscience.eu/content/what-open-science-introduction) adalah gerakan sosial yang bertujuan untuk mereformasi cara kerja sains tradisional, sekaligus menawarkan konsensus baru untuk mengurangi dampak [Krisis Replikasi](https://en.wikipedia.org/wiki/Replication_crisis). #SainsTerbuka juga merupakan strategi untuk mendemokratisasi pengetahuan, sehingga siapapun dapat berpartisipasi dan berkontribusi dalam perkembangan sains.
+
+Ingin kenal lebih lanjut dengan #SainsTerbuka? [Unduh paparan kami disini](https://sainsterbukaua.github.io/files/sains-terbuka-intro-template.pdf). Kode dapat diakses di [repositori](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/intro-sainsterbuka-template.Rmd) <i class="fab fa-github"></i></a> kami.
+
+Kami juga sangat merekomendasikan [Open Science Knowledge Base](https://how-to-open.science/) sebagai sumber belajar pertama anda, apabila anda berminat untuk belajar tentang #SainsTerbuka lebih lanjut.
+
+Apabila anda berbagi nilai yang sama dengan gerakan ini, anda dapat bergabung dengan kami!
+
+
+# Manifesto
+
+* Mendorong peneliti untuk menyadari potensi terjadinya bias kognitif yang berakar dari keterbatasannya pribadi ketika melaksanakan penelitian
+* Menggarisbawahi pentingnya pelatihan metodologi, utamanya bagi peneliti pemula dan mahasiswa
+* Mempromosikan kolaborasi dan pendekatan tim saintis
+* Mempromosikan praktik baik dalam meneliti (*good research practices*)
+* Mendorong peneliti untuk melakukan [pra-registrasi](https://cos.io/prereg/) dan menggunakan format [laporan teregistrasi](https://cos.io/rr/)
+* Menekankan pentingnya peningkatan kualitas pelaporan penelitian (yang lengkap dan *reproducible*)
+* Mendorong penggunaan piranti lunak dengan prinsip sumber terbuka (*open source*) dan *reproducible* (misalnya <a href="https://www.r-project.org" target="_blank"><i class="fab fa-r-project"></i></a>, <a href="https://www.python.org/" target="_blank"><i class="fab fa-python"></i></a> dan yang lainnya)
+* Mendorong evaluasi kinerja peneliti dengan menggunakan prinsip transparansi dan keterbukaan (contohnya [Transparency and Openness Promotion (TOP) Guideline](https://cos.io/top/) dari [Center for Open Science](https://cos.io/about/mission/)) tidak sekadar menggunakan metrik proksi, seperti H-Index, JIF, dsb.
+* Mendorong pembatasan penggunaan metrik proksi dan mendorong pengambil keputusan menggunakan metrik-metrik tersebut secara bertanggung jawab, sesuai dengan [San Fransisco Declaration of Research Assessments (SF-DORA)](https://sfdora.org/read/)
+* Mendorong peneliti untuk lebih banyak melakukan penelitian meta (*systematic review* dan meta-analisis) untuk menyajikan bukti ilmiah yang lebih andal untuk melandasi kebijakan berbasis bukti
+
+
+NB: Manifesto kami terinspirasi dari [Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., ... & Ioannidis, J. P. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1), 0021](https://www.nature.com/articles/s41562-016-0021).
+
+
+# Tim Kami 
+
+### [Rizqy Amelia Zein](https://rameliaz.github.io/)
+Amel adalah pengajar Psikologi Sosial dan peneliti pemula yang bekerja di Fakultas Psikologi Universitas Airlangga. Ia adalah mahasiswa [S3 Psikologi Sosial](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html) di Ludwig-Maximilians-Universität München. Penelitian S3nya berfokus pada bagaimana individu menggunakan penjelasan saintifik dan religious. Ia secara umum tertarik untuk melakukan riset dalam bidan Psikologi Sains dan Psikologi Agama. Ia juga sangat berminat pada kajian metodologi penelitian kuantitatif, metasains, komputasi reka-ulang (*reproducibility*), dan pengukuran psikologi.
+
+### [Ilham Akhsanu Ridlo](https://orcid.org/0000-0001-5751-3665)
+Ilham Akhsanu Ridlo adalah dosen dan peneliti di Fakultas Kesehatan Masyarakat di Universitas Airlangga. Penelitiannya lebih banyak berfokus pada topik kebijakan dan administrasi kesehatan, determinan sosial dan kepercayaan pada kebijakan kesehatan, dan bagaimana kebijakan kesehatan dapat mengatasi ketimpangan kondisi kesehatan. Penelitiannya mengkombinasikan pendekatan teoritik dan metode di ilmu sosial, kesehatan masyarakat dan kebijakan kesehatan. Ia juga saat ini bertugas sebagai editor pengelola di [Jurnal Administrasi Kesehatan Indonesia (JAKI)](https://e-journal.unair.ac.id/jaki).
+
+### [Agie Nugroho Soegiono](https://www.researchgate.net/profile/Agie_Soegiono)
+Agie adalah akademisi kebijakan publik dan bekerja sebagai staf pengajar di Program Studi Sarjana Ilmu Administrasi Negara, Fakultas Ilmu Sosial dan Ilmu Politik, Universitas Airlangga. Agenda risetnya berfokus pada topik-topik seperti tata kelola pemerintahan terbuka, kota pintar, dan pendidikan untuk semua. Sebelumnya, ia bekerja di Kantor Staf Presiden dan berkontribusi pada perancangan Peraturan Presiden tentang Satu Data yang meliputi implementasi data terbuka di Indonesia. Karya-karyanya bisa diakses secara terbuka dan gratis di akun <a href="https://www.researchgate.net/profile/Agie_Soegiono" target="_blank"><i class="fab fa-researchgate"></i></a> pribadinya.
+
+
+# Sebarkan kebaikan!
+
+Terima kasih sudah berkenan mengunjungi situs web kami.
+
+Situs web dibuat dan dikelola oleh [Rizqy Amelia Zein](https://rameliaz.github.io/) menggunakan [`Quarto`]((https://quarto.org/docs/websites/)) dengan piranti lunak  <a href="https://www.r-project.org" target="_blank"><i class="fab fa-r-project"></i></a>.
+
+
+# Penting diketahui
+
+Meskipun gerakan ini dipimpin dan dikelola oleh dosen yang bekerja di Universitas Airlangga, kami **belum mendapatkan** dukungan secara langsung atau formal dari pimpinan Universitas Airlangga. **Oleh karena itu, kami tidak mewakili pandangan umum/kebijakan insitusi tempat kami bekerja**.
