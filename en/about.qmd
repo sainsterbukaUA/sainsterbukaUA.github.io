@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 ---
 
 # What is Airlangga [#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction)?

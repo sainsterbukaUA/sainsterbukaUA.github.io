@@ -43,7 +43,7 @@ Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggar
 ### Webinar yang akan datang
 
 <center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
-## <center>[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)</center>
+<center>[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)</center>
 
 
 ## Undangan Diskusi/Kuliah Umum/Workshop

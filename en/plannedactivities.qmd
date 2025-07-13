@@ -40,7 +40,7 @@ In collaboration with INA-Rxiv dan Sains Terbuka MOOC (Wibisana), we organised P
 ### Upcoming webinars
 
 <center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
-## <center>[Click here for more information of nation-wide science webinar](https://webinarsains2019.com)</center>
+<center>[Click here for more information of nation-wide science webinar](https://webinarsains2019.com)</center>
 
 
 ## Active participation in a conference/public discussion/invited talks
