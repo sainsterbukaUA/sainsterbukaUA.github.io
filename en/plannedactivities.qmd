@@ -6,38 +6,36 @@ date-modified: last-modified
 author: Rizqy Amelia Zein
 ---
 
-Some activites that we are planning to do in the future including:
+Some activities that we are planning to do in the future including:
 
 * Writing a *Research Data Management Plan* document so that researchers are informed about the best practice of data sharing.
-* Organising public discussions, workshops, drop-in sessions and webinars that are related to the theme of replication, reproducibility and #OpenScience.
+* Organizing public discussions, workshops, drop-in sessions and webinars that are related to the theme of replication, reproducibility and #OpenScience.
 * Strengthening our networking with similar communities in Indonesia and beyond.
 
 
-# Past and Upcoming Activities
+# Past Activities
 
-So far, we have managed to organise several activities:
+So far, we have managed to organize several activities:
 
-## Organising invited talks/public discussion
+## Organizing invited talks/public discussion
 
-In collaboration with Fakultas Psikologi Universitas Airlangga, we organised:
+In collaboration with Fakultas Psikologi Universitas Airlangga, we organized:
 
 * [23/04/2019] An invited talk by **Prof. Michael Inzlicht (University of Toronto)** "Replication Crisis in Social Psychology: A personal, first person account". Slides can be [downloaded here](../files/[Michael Inzlicht]_Invited-Talk_Replication Crisis_2304.pptx).
-* [09/05/2019] An invited talk by **Dr. Sandersan Onie (University of New South Wales)** titled "Introduction to Bayesian Statistics for Psychological Research". Slides can be [downloaded here](../files/UnAir_Bayes.pptx).
+* [09/05/2019] An invited talk by **Dr Sandersan Onie (University of New South Wales)** titled "Introduction to Bayesian Statistics for Psychological Research". Slides can be [downloaded here](../files/UnAir_Bayes.pptx).
 * [10/05/2019] An invited talk by **Dr Rebecca Willen from Institute of Globally Distributed Open Research and Education (IGDORE)** titled "Open Scientific Practice in Psychological Research". Slides can be [downloaded here](../files/airlangga-uni-may-10-2019.zip).
-* [09/05/2019] A Intro to R Workshop by **Sandersan Onie (PhD Cand.) (University of New South Wales)**. Slides can be [downloaded here](../files/UnAir_r.pptx).
+* [09/05/2019] A Intro to R Workshop by **Dr Sandersan Onie (University of New South Wales)**. Slides can be [downloaded here](../files/UnAir_r.pptx).
   
 In collaboration with Jurnal Administrasi Kesehatan Indonesia (JAKI), we organised a public discussion on #OpenScience with **Dr Dasapta Erwin Irawan (Institut Teknologi Bandung)** as an invited speaker. Slides can be downloaded here [(pdf)](../files/20190503_UnairWebinar.pdf) [(pptx)](../files/20190503_UnairWebinar.pptx).
 
 
-## Organising webinars
+## Organizing webinars
 
 We also routinely organize webinars discussing about advancing research quality and improving research skills. There are below our upcoming webinars. If you are interested in **learning how to sign up/join in a webinar**, [please check our page here](https://sainsterbukaua.github.io/id/petunjukwebinar.html) (in Bahasa Indonesia).
 
 ### Past webinars
 
-In collaboration with INA-Rxiv dan Sains Terbuka MOOC (Wibisana), we organised Publication Bias Webinar with **Dr Mathew Ling from Deakin University & Australian and New Zealand Open Research Network (ANZORN)**. All materials [are accessible here](https://sainsterbukaua.github.io/en/webinarpubbias.html).
-
-### Upcoming webinars
+In collaboration with INA-Rxiv and Sains Terbuka MOOC (Wibisana), we organised Publication Bias Webinar with **Dr Mathew Ling from Deakin University & Australian and New Zealand Open Research Network (ANZORN)**. All materials [are accessible here](https://sainsterbukaua.github.io/en/webinarpubbias.html).
 
 <center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
 <center>[Click here for more information of nation-wide science webinar](https://webinarsains2019.com)</center>

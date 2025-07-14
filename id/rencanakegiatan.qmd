@@ -13,7 +13,7 @@ Berikut adalah beberapa rencana aktivitas yang akan kami lakukan kedepan:
 * Memperkuat jejaring dengan komunitas serupa, baik yang ada di Indonesia maupun di luar Indonesia.
 
 
-# Aktivitas yang sudah dilakukan dan sedang dijadwalkan
+# Aktivitas yang sudah dilakukan
 
 Sejauh ini kami telah melakukan beberapa aktivitas yaitu:
 
@@ -22,9 +22,9 @@ Sejauh ini kami telah melakukan beberapa aktivitas yaitu:
 **Bekerjasama dengan Fakultas Psikologi Universitas Airlangga**
 
 * [23/04/2019] Kuliah Tamu dari **Prof. Michael Inzlicht dari University of Toronto** dengan judul "Replication Crisis in Social Psychology: A personal, first person account". Materi dapat [diunduh disini](../files/[Michael Inzlicht]_Invited-Talk_Replication Crisis_2304.pptx).
-* [09/05/2019] Kuliah Tamu dari **Sandersan Onie (PhD Cand.)** dari University of New South Wales tentang "Introduction to Bayesian Statistics for Psychological Research". Materi dapat [diunduh disini](../files/UnAir_Bayes.pptx).
+* [09/05/2019] Kuliah Tamu dari **Dr Sandersan Onie** dari University of New South Wales tentang "Introduction to Bayesian Statistics for Psychological Research". Materi dapat [diunduh disini](../files/UnAir_Bayes.pptx).
 * [10/05/2019] Kuliah Tamu dari **Dr Rebecca Willen dari Institute of Globally Distributed Open Research and Education (IGDORE)** tentang "Open Scientific Practice in Psychological Research". Materi dapat [diunduh disini](../files/airlangga-uni-may-10-2019.zip).
-* [09/05/2019] Workshop Pengantar R *Programming* dengan **Sandersan Onie (PhD Cand.)** dari University of New South Wales. Materi dapat [diunduh disini](../files/UnAir_r.pptx).
+* [09/05/2019] Workshop Pengantar R *Programming* dengan **Dr Sandersan Onie** dari University of New South Wales. Materi dapat [diunduh disini](../files/UnAir_r.pptx).
   
 
 **Bekerjasama dengan Jurnal Administrasi Kesehatan Indonesia (JAKI)**
@@ -39,8 +39,6 @@ Kami juga aktif menyelenggarakan webinar yang berkaitan dengan peningkatan kuali
 ### Webinar yang sudah dilaksanakan
 
 Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggarakan Webinar Bias Publikasi bersama dengan **Dr Mathew Ling from Deakin University & Australian and New Zealand Open Research Network (ANZORN)**. Semua materi [dapat diakses disini](https://sainsterbukaua.github.io/en/webinarpubbias.html).
-
-### Webinar yang akan datang
 
 <center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
 <center>[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)</center>
