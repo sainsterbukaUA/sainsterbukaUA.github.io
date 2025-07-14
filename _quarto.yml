@@ -21,7 +21,9 @@ website:
         - text: "Planned Activities"
           href: en/plannedactivities.qmd
         - text: "Webinar: Publication Bias"
-          href: en/webinarpubbias.qmd  
+          href: en/webinarpubbias.qmd
+        - text: "Webinar: Advancing Science in Indonesia"
+          href: en/webinarscience.qmd
       - text: "Kegiatan Kami (ID)"
         menu:
         - text: "#SainsTerbuka Airlangga Akhirnya Terbentuk!"
@@ -34,6 +36,8 @@ website:
           href: id/benefit.qmd
         - text: "Petunjuk Mengikuti Webinar"
           href: id/petunjukwebinar.qmd
+        - text: "Webinar: Advancing Science in Indonesia"
+          href: id/webinarsains.qmd
         
 format:
   html:

@@ -43,15 +43,8 @@ Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggar
 ::: {.text-center}
 ![](../images/webinarunair.png)
 
-[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://sainsterbuka.github.io/webinarsains.html)
+[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://sainsterbuka.github.io/id/webinarsains.html)
 :::
-
-## Undangan Diskusi/Kuliah Umum/Workshop
-
-Tim kami juga secara aktif terlibat dalam diskusi publik/workshop/konferensi, termasuk diantaranya adalah:
-
-* [25/04/2019] Rizqy Amelia Zein diundang oleh Fakultas Kedokteran, Kesehatan Masyarakat dan Keperawatan, Universitas Gadjah Mada untuk menjadi salah satu panelis dalam acara [5th Public Health Symposium](http://phs.fk.ugm.ac.id/). Materi dapat [diunduh disini](../files/2404_RAZ_PHS5 [Untuk Peserta].pdf) dan kode untuk membuat materi tersebut [dapat diakses disini](https://github.com/rameliaz/5th-UGM-Public-Health-Symposium).
-* [19/07/2019] Rizqy Amelia Zein menyampaikan materi tentang **Pengarsipan Mandiri** di Workshop yang diselenggarakan oleh Jurnal Administrasi Kesehatan Indonesia (JAKI), sekaligus materi yang sama disampaikan di *Writing Masterclass* dari [The Conversation Indonesia](https://theconversation.com/id), yang diselenggarakan di Fakultas Psikologi Universitas Airlangga (23/07/2019). Materi dapat [diunduh disini](../files/20190718_self-archiving.pdf) dan kode dapat [diakses disini](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/self-archiving.Rmd).
 
 ## Tulisan Ilmiah dan Populer
 
@@ -67,3 +60,11 @@ Tim kami juga secara aktif terlibat dalam diskusi publik/workshop/konferensi, te
 * [13/05/2024] Ilham Akhsanu Ridlo menulis ["Perguruan Tinggi: Berhentilah Terobsesi pada Konsultan Pemeringkatan"](https://sciencewatchdog.id/2024/05/23/perguruan-tinggi-berhentilah-terobsesi-pada-konsultan-pemeringkatan/) yang diterbitkan oleh Kompas.id.
 * [15/05/2025] Rizqy Amelia Zein menulis artikel ["Mengenal cara kerja ‘paper mill’: pabrik artikel ilmiah yang beroperasi seperti kartel di film-film"](https://theconversation.com/mengenal-cara-kerja-paper-mill-pabrik-artikel-ilmiah-yang-beroperasi-seperti-kartel-di-film-film-228784) yang diterbitkan di The Conversation Indonesia (versi bahasa inggris: ["Paper mills: the ‘cartel-like’ companies behind fraudulent scientific journals"](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)) dan mendapat penghargaan ["Penulis Pilihan Editor Pendidikan dan Budaya."](https://rameliaz.github.io/files/TCID.pdf)
 * [09/02/2025] Ilham Akhsanu Ridlo menulis ["Kejar indeksasi demi gengsi: Salah kaprah penilaian kualitas riset dan evaluasi kinerja penelitian"](https://theconversation.com/kejar-indeksasi-demi-gengsi-salah-kaprah-penilaian-kualitas-riset-dan-evaluasi-kinerja-penelitian-248448) yang diterbitkan oleh The Conversation Indonesia.
+
+
+## Undangan Diskusi/Kuliah Umum/Workshop
+
+Tim kami juga secara aktif terlibat dalam diskusi publik/workshop/konferensi, termasuk diantaranya adalah:
+
+* [25/04/2019] Rizqy Amelia Zein diundang oleh Fakultas Kedokteran, Kesehatan Masyarakat dan Keperawatan, Universitas Gadjah Mada untuk menjadi salah satu panelis dalam acara [5th Public Health Symposium](http://phs.fk.ugm.ac.id/). Materi dapat [diunduh disini](../files/2404_RAZ_PHS5 [Untuk Peserta].pdf) dan kode untuk membuat materi tersebut [dapat diakses disini](https://github.com/rameliaz/5th-UGM-Public-Health-Symposium).
+* [19/07/2019] Rizqy Amelia Zein menyampaikan materi tentang **Pengarsipan Mandiri** di Workshop yang diselenggarakan oleh Jurnal Administrasi Kesehatan Indonesia (JAKI), sekaligus materi yang sama disampaikan di *Writing Masterclass* dari [The Conversation Indonesia](https://theconversation.com/id), yang diselenggarakan di Fakultas Psikologi Universitas Airlangga (23/07/2019). Materi dapat [diunduh disini](../files/20190718_self-archiving.pdf) dan kode dapat [diakses disini](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/self-archiving.Rmd).

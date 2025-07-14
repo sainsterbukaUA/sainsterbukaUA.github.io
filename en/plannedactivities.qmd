@@ -40,15 +40,8 @@ In collaboration with INA-Rxiv and Sains Terbuka MOOC (Wibisana), we organised P
 ::: {.text-center}
 ![](../images/webinarunair.png)
 
-[Click here for more information of nation-wide science webinar](https://sainsterbuka.github.io/webinarscience.html)
+[Click here for more information of nation-wide science webinar](https://sainsterbuka.github.io/en/webinarscience.html)
 :::
-
-## Active participation in a conference/public discussion/invited talks
-
-Our members are also actively involved of several public discussions/talks, including:
-
-* [25/04/2019] Rizqy Amelia Zein was invited by Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada to give a talk as one of the panelists at [5th Public Health Symposium](http://phs.fk.ugm.ac.id/). Slides can be [downloaded here](../files/2404_RAZ_PHS5 [Untuk Peserta].pdf) and the codes are [available here](https://github.com/rameliaz/5th-UGM-Public-Health-Symposium).
-* [19/07/2019] Rizqy Amelia Zein delivered an invited talk about **Self-Archiving** in a workshop, which was organised by Jurnal Administrasi Kesehatan Indonesia (JAKI). She also gave the same talk in a *Writing Masterclass* organised by [The Conversation Indonesia](https://theconversation.com/id), which was taken place at Faculty of Psychology Universitas Airlangga (23/07/2019). Slides [are available here](../files/20190718_self-archiving.pdf) and codes [can be accessed here](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/self-archiving.Rmd). The talk was in Bahasa Indonesia.
 
 ## Scientific and popular articles
 
@@ -64,3 +57,11 @@ Our members are also actively involved of several public discussions/talks, incl
 * [13/05/2024] Ilham Akhsanu Ridlo wrote [“Perguruan Tinggi: Berhentilah Terobsesi pada Konsultan Pemeringkatan”](https://sciencewatchdog.id/2024/05/23/perguruan-tinggi-berhentilah-terobsesi-pada-konsultan-pemeringkatan/) published by Kompas.id.
 * [May 15, 2025] Rizqy Amelia Zein wrote an article titled [“Mengenal cara kerja ‘paper mill’: pabrik artikel ilmiah yang beroperasi seperti kartel di film-film”](https://theconversation.com/mengenal-cara-kerja-paper-mill-pabrik-artikel-ilmiah-yang-beroperasi-seperti-kartel-di-film-film-228784) published in The Conversation Indonesia (English version: [“Paper mills: the ‘cartel-like’ companies behind fraudulent scientific journals”](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)) and received the award [“ Education and Culture Editor's Choice.”](https://rameliaz.github.io/files/TCID.pdf)
 * [09/02/2025] Ilham Akhsanu Ridlo wrote ["Kejar indeksasi demi gengsi: Salah kaprah penilaian kualitas riset dan evaluasi kinerja penelitian"](https://theconversation.com/kejar-indeksasi-demi-gengsi-salah-kaprah-penilaian-kualitas-riset-dan-evaluasi-kinerja-penelitian-248448) published by The Conversation Indonesia.
+
+
+## Active participation in a conference/public discussion/invited talks
+
+Our members are also actively involved of several public discussions/talks, including:
+
+* [25/04/2019] Rizqy Amelia Zein was invited by Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada to give a talk as one of the panelists at [5th Public Health Symposium](http://phs.fk.ugm.ac.id/). Slides can be [downloaded here](../files/2404_RAZ_PHS5 [Untuk Peserta].pdf) and the codes are [available here](https://github.com/rameliaz/5th-UGM-Public-Health-Symposium).
+* [19/07/2019] Rizqy Amelia Zein delivered an invited talk about **Self-Archiving** in a workshop, which was organised by Jurnal Administrasi Kesehatan Indonesia (JAKI). She also gave the same talk in a *Writing Masterclass* organised by [The Conversation Indonesia](https://theconversation.com/id), which was taken place at Faculty of Psychology Universitas Airlangga (23/07/2019). Slides [are available here](../files/20190718_self-archiving.pdf) and codes [can be accessed here](https://github.com/sainsterbukaUA/materi-presentasi/blob/master/self-archiving.Rmd). The talk was in Bahasa Indonesia.
