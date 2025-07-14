@@ -43,7 +43,7 @@ Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggar
 ::: {.text-center}
 ![](../images/webinarunair.png)
 
-[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://sainsterbuka.github.io/id/webinarsains.html)
+[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://sainsterbukaua.github.io/id/webinarsains.html)
 :::
 
 ## Tulisan Ilmiah dan Populer

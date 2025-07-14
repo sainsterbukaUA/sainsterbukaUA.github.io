@@ -40,7 +40,7 @@ In collaboration with INA-Rxiv and Sains Terbuka MOOC (Wibisana), we organised P
 ::: {.text-center}
 ![](../images/webinarunair.png)
 
-[Click here for more information of nation-wide science webinar](https://sainsterbuka.github.io/en/webinarscience.html)
+[Click here for more information of nation-wide science webinar](https://sainsterbukaua.github.io/en/webinarscience.html)
 :::
 
 ## Scientific and popular articles
