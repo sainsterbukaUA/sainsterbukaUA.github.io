@@ -16,10 +16,10 @@ website:
             href: id/about.qmd
       - text: "Our Events/News (EN)"
         menu:
-        - text: "Planned Activities"
-          href: en/plannedactivities.qmd
         - text: "Airlangga #OpenScience is finally here!"
           href: en/wearehere.qmd
+        - text: "Planned Activities"
+          href: en/plannedactivities.qmd
         - text: "Webinar: Publication Bias"
           href: en/webinarpubbias.qmd  
       - text: "Kegiatan Kami (ID)"

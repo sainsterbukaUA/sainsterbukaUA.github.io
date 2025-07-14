@@ -4,7 +4,7 @@ title: "About Us"
 
 # What is Airlangga [#OpenScience](https://www.fosteropenscience.eu/content/what-open-science-introduction)?
 
-We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that (good) science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasizing the importance of getting (the research) right, not just getting it published! 
+We are early-career researchers from various scientific backgrounds in Universitas Airlangga, committed to promote and to educate students and young researchers to adopt Open Scientific Practices. We believe that science should be open, reproducible, transparent and accessible to everyone. We believe that the current ways of doing science is too polluted by irresponsible use of crude metrics, unhealthy reward systems, and competition. We want change and improvement by emphasizing the importance of getting (the research) right, not just getting it published! 
 
 Publishing research findings is crucial and should be done accordingly. However, **ensuring and improving research quality** is the most important aspect and should be given top priority and more extensive efforts.
 
@@ -14,7 +14,9 @@ Are you keen on learning more about #OpenScience? [Download our Intro to #OpenSc
 
 We also highly recommend [Open Science Knowledge Base](https://oercommons.org/hubs/OSKB) as your first resort, if you are eager to learn more about #OpenScience.
 
-So if you share the similar value, please consider to join our movement!
+So if you share similar values, please consider to join our movement!
+
+Please check our [past and planned activities here](https://sainsterbukaua.github.io/en/plannedactivities.html).
 
 
 # Manifesto
@@ -28,7 +30,7 @@ So if you share the similar value, please consider to join our movement!
 * Encouraging the use of open-source and reproducible software for research (<a href="https://www.r-project.org" target="_blank"><i class="fab fa-r-project"></i></a>, <a href="https://www.python.org/" target="_blank"><i class="fab fa-python"></i></a> and many more)
 * Evaluating researchers' performance by looking at their adherence to open and reproducible practices, not just crude metrics (for example, see [Center for Open Science](https://cos.io/about/mission/)'s [Transparency and Openness Promotion Guideline (TOP)](https://cos.io/top/))
 * Limiting the use of crude metrics and rankings and encouraging the decision makers to use it responsibly according to [San Fransisco Declaration of Research Assessments (SF-DORA)](https://sfdora.org/read/)
-* Encouraging researchers to investigate research questions by conducting meta-research (systematic reviews and meta-analysis) in order to provide better scientific evidences for supporting evidence-based policies
+* Encouraging researchers to investigate research questions by conducting meta-research (systematic reviews and meta-analysis) transparently in order to provide better scientific evidences for supporting evidence-based policies
 
 
 NB: We were inspired by [Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., ... & Ioannidis, J. P. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1), 0021](https://www.nature.com/articles/s41562-016-0021) when writing our manifesto.

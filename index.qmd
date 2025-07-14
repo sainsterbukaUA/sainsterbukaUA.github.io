@@ -10,13 +10,13 @@ title: ""
 
 ## Choose Language / Pilih Bahasa
 
-[**English** 🇺🇸](en/index.qmd){.btn .btn-primary .btn-lg}
+[**English** 🇺🇸](en/about.qmd){.btn .btn-primary .btn-lg}
 &nbsp;&nbsp;&nbsp;
-[**Bahasa Indonesia** 🇮🇩](id/index.qmd){.btn .btn-success .btn-lg}
+[**Bahasa Indonesia** 🇮🇩](id/about.qmd){.btn .btn-success .btn-lg}
 
 ---
 
-*Shared Knowledge Endures Forever*  
+*Shared knowledge endures forever*  
 *Ilmu yang dibagi akan abadi*
 
 :::
