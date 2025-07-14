@@ -37,9 +37,11 @@ We also routinely organize webinars discussing about advancing research quality 
 
 In collaboration with INA-Rxiv and Sains Terbuka MOOC (Wibisana), we organised Publication Bias Webinar with **Dr Mathew Ling from Deakin University & Australian and New Zealand Open Research Network (ANZORN)**. All materials [are accessible here](https://sainsterbukaua.github.io/en/webinarpubbias.html).
 
-<center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
-<center>[Click here for more information of nation-wide science webinar](https://webinarsains2019.com)</center>
+::: {.text-center}
+![](../images/webinarunair.png)
 
+[Click here for more information of nation-wide science webinar](https://webinarsains2019.com)
+:::
 
 ## Active participation in a conference/public discussion/invited talks
 

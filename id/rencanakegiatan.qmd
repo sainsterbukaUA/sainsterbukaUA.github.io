@@ -40,9 +40,11 @@ Kami juga aktif menyelenggarakan webinar yang berkaitan dengan peningkatan kuali
 
 Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggarakan Webinar Bias Publikasi bersama dengan **Dr Mathew Ling from Deakin University & Australian and New Zealand Open Research Network (ANZORN)**. Semua materi [dapat diakses disini](https://sainsterbukaua.github.io/en/webinarpubbias.html).
 
-<center><img src="https://rameliaz.github.io/files/cos-webinar.jpg" style="width:60%;" class="fancyimage"/></center>
-<center>[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)</center>
+::: {.text-center}
+![](../images/webinarunair.png)
 
+[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)
+:::
 
 ## Undangan Diskusi/Kuliah Umum/Workshop
 
