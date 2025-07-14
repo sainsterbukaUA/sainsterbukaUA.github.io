@@ -43,7 +43,7 @@ Bekerjasama dengan INA-Rxiv dan Sains Terbuka MOOC (Wibisana), kami menyelenggar
 ::: {.text-center}
 ![](../images/webinarunair.png)
 
-[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://webinarsains2019.com)
+[Klik disini untuk informasi lebih lanjut tentang webinar sains](https://sainsterbuka.github.io/webinarsains.html)
 :::
 
 ## Undangan Diskusi/Kuliah Umum/Workshop

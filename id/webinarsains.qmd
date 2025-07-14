@@ -1,0 +1,16 @@
+---
+title: "Webinar: Advancing Science in Indonesia"
+date: "2019-10-21"
+date-format: "DD/MM/YYYY"
+author: Rizqy Amelia Zein
+---
+
+Pada hari Senin, 21 Oktober 2019, kami menyelenggarakan webinar nasional yang melibatkan lebih dari 40 universitas dan pusat penelitian di Indonesia. Rekaman webinar ini dapat dilihat di halaman ini.
+
+::: {.text-center}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ntbGRPU5zpR9QYhW&amp;list=PLQN4Pa04Zt21yFomP_vazke5Pt3ukSczQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+![](../images/webinarunair.png)
+
+:::
