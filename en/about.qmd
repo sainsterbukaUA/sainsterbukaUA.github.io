@@ -21,7 +21,7 @@ Please check our [past and planned activities here](https://sainsterbukaua.githu
 
 # Manifesto
 
-* Encouraging researchers to realise their own biases when conducting research
+* Encouraging researchers to realize their own biases when conducting research
 * Underlining the importance of methodological training, especially for early-career researchers and students
 * Promoting interdisciplinary collaboration and team science
 * Promoting good research practices
@@ -48,7 +48,7 @@ Ilham Akhsanu Ridlo is an assistant professor at the Faculty of Public Health at
 
 ### [Agie Nugroho Soegiono](https://www.researchgate.net/profile/Agie_Soegiono)
 
-Agie is a public policy researcher and currently works as a teaching staff for undergraduate public administration programme at Faculty of Social and Political Sciences, Universitas Airlangga. His research agenda operates within the topics of open governance, smart city, and education for all. Previously, he worked at the Executive Office of the President and contributed to the drafting of Presidential Regulation in regards to open data implementation in Indonesia. His work could be accessed openly and freely through his <a href="https://www.researchgate.net/profile/Agie_Soegiono" target="_blank"><i class="fab fa-researchgate"></i></a> account.
+Agie is a public policy researcher and currently works as a teaching staff for undergraduate public administration program at Faculty of Social and Political Sciences, Universitas Airlangga. His research agenda operates within the topics of open governance, smart city, and education for all. Previously, he worked at the Executive Office of the President and contributed to the drafting of Presidential Regulation in regards to open data implementation in Indonesia. His work could be accessed openly and freely through his <a href="https://www.researchgate.net/profile/Agie_Soegiono" target="_blank"><i class="fab fa-researchgate"></i></a> account.
 
 
 # Spread the word!
