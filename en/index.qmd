@@ -6,7 +6,7 @@ title: ""
 # Welcome to the #OpenScience Airlangga Website!
 :::
 
-![](../images/avatar.jpg){fig-align="center"}
+![](../images/stiker.png){fig-align="center"}
 
 ::: {.text-center}
 # Shared knowledge endures forever
