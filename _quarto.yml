@@ -8,6 +8,8 @@ website:
     left:
       - text: "🏠"
         href: index.qmd
+      - icon: fa-github fa-lg
+        href: https://github.com/sainsterbukaUA/sainsterbukaUA.github.io
       - text: "About"
         menu:
           - text: "About (EN)"
