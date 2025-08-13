@@ -4,11 +4,12 @@ project:
 
 website:
   title: "Airlangga Open Science"
+  google-analytics: "G-Q12HZD6EHE"
   navbar:
     left:
       - text: "🏠"
         href: index.qmd
-      - icon: fab fa-github fa-lg
+      - icon: github
         href: https://github.com/sainsterbukaUA/sainsterbukaUA.github.io
       - text: "About"
         menu:
