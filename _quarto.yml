@@ -44,8 +44,7 @@ website:
         
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: litera
     toc: true
     toc-location: right
     toc-depth: 3

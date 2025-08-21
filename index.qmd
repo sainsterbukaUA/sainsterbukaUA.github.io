@@ -11,9 +11,9 @@ toc: false
 
 ## Choose Language / Pilih Bahasa
 
-[**English** 🇺🇸](en/about.qmd){.btn .btn-primary .btn-lg}
+[**English**](en/about.qmd){.btn .btn-primary .btn-lg}
 &nbsp;&nbsp;&nbsp;
-[**Bahasa Indonesia** 🇮🇩](id/about.qmd){.btn .btn-success .btn-lg}
+[**Bahasa Indonesia**](id/about.qmd){.btn .btn-success .btn-lg}
 
 ---
 
