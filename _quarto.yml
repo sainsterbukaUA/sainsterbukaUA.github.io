@@ -3,14 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Airlangga Open Science"
+  title: ""
   google-analytics: "G-Q12HZD6EHE"
   navbar:
     left:
-      - text: "🏠"
+      - icon: house
         href: index.qmd
-      - icon: github
-        href: https://github.com/sainsterbukaUA/sainsterbukaUA.github.io
       - text: "About"
         menu:
           - text: "About (EN)"
@@ -41,10 +39,28 @@ website:
           href: id/petunjukwebinar.qmd
         - text: "Webinar: Advancing Science in Indonesia"
           href: id/webinarsains.qmd
+    right:
+      - text: "📧"
+        href: "mailto:sainsterbuka.ua@gmail.com"
+      - icon: github
+        href: https://github.com/sainsterbukaUA/sainsterbukaUA
+          
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+      left: "&#169; 2025 Tim Sains Terbuka Airlangga"
+      center: |
+        <a class="link-dark me-1" href="https://github.com/sainsterbukaUA" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
+        <a class="link-dark me-1" href=mailto:sainsterbuka.ua@gmail.com title="Email" target="_blank" rel="noopener">{{< iconify material-symbols:mail >}}</a>
+      right: |
+        <a class="link-dark me-1" href="https://github.com/sainsterbukaUA/sainsterbukaUA.github.io">{{< iconify fa6-brands github >}} Source</a>
+
         
 format:
   html:
-    theme: litera
+    theme: cosmo
+    css: styles.css
     toc: true
     toc-location: right
     toc-depth: 3
